@@ -1,3 +1,3 @@
-```
-[https://azzzrro.github.io/Simplotel_design/](https://azzzrro.github.io/Simplotel_design/)
+```bash
+[http://localhost:3000](http://localhost:3000)
 ```
